@@ -1,0 +1,19 @@
+.aPerson{
+    width: 100%;
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-evenly;
+    padding : 3px 0px;
+}
+
+.personName{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.personPhone{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
